@@ -3,6 +3,7 @@
 This repository has the code for the Airflow Intro course with practical and basic examples. The Airflow instance is run in a Docker compose instance (See the YAML files).
 
 Resource 1: [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/).
+
 Resource 2: [Apache Airflow: The Hands-On Guide](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
 
 ### Developers:
