@@ -20,7 +20,7 @@ Resource 2: [Apache Airflow: The Hands-On Guide](https://www.udemy.com/course/th
     * Terminate your cocker instance:
       * 'docker-compose down'
     
-    *Check healthiness of your docker instance
+    * Check healthiness of your docker instance
       * '-f .\docker-compose.yaml ps'
     
     * Open you local host 8080 port 'http://localhost:8080' and loging to the Airflow instance
